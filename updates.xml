@@ -13,6 +13,6 @@
   <app appid="efkjbfgeepljiggkpikjkpbghloicblg">
     <updatecheck
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/yt-dlp.crx"
-      version="0.1.0" />
+      version="0.1.1" />
   </app>
 </gupdate>
