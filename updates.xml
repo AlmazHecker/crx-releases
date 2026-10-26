@@ -2,12 +2,17 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="mfklocmalbcgkafcadgnnjphlgjjffob">
     <updatecheck
-      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/start-page2.0.1.crx"
+      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/start-page.crx"
       version="2.0.1" />
   </app>
   <app appid="hnacfhhchnjebnelifoaibegkmjfhbjj">
     <updatecheck
-      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/media-player1.0.0.crx"
+      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/media-player.crx"
       version="1.0.0" />
+  </app>
+  <app appid="efkjbfgeepljiggkpikjkpbghloicblg">
+    <updatecheck
+      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/yt-dlp.crx"
+      version="0.1.0" />
   </app>
 </gupdate>
