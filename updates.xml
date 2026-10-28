@@ -3,7 +3,7 @@
   <app appid="mfklocmalbcgkafcadgnnjphlgjjffob">
     <updatecheck
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/start-page.crx"
-      version="2.0.3" />
+      version="3.0.0" />
   </app>
   <app appid="hnacfhhchnjebnelifoaibegkmjfhbjj">
     <updatecheck
