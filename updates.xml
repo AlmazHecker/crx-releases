@@ -8,7 +8,7 @@
   <app appid="hnacfhhchnjebnelifoaibegkmjfhbjj">
     <updatecheck
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/media-player.crx"
-      version="1.0.0" />
+      version="1.0.1" />
   </app>
   <app appid="efkjbfgeepljiggkpikjkpbghloicblg">
     <updatecheck
