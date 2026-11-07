@@ -18,6 +18,6 @@
   <app appid="eefghjkepnjmaighmokobnienkdenihd">
     <updatecheck
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/s3-browser.crx"
-      version="0.1.1" />
+      version="0.1.2" />
   </app>
 </gupdate>
