@@ -15,4 +15,9 @@
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/yt-dlp.crx"
       version="1.0.0" />
   </app>
+  <app appid="eefghjkepnjmaighmokobnienkdenihd">
+    <updatecheck
+      codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/s3-browser.crx"
+      version="0.1.0" />
+  </app>
 </gupdate>
