@@ -23,6 +23,6 @@
   <app appid="epndjbfdbpkjppppcjhkihckiofljami">
     <updatecheck
       codebase="https://raw.githubusercontent.com/AlmazHecker/crx-releases/master/sealed.crx"
-      version="0.1.0" />
+      version="0.2.0" />
   </app>
 </gupdate>
